@@ -23,6 +23,7 @@
          {
             $lettersNumbersRandom = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890()';
             $password = [];
+            $lengthPassword = strlen($lettersNumbersRandom) - 1; 
          }
       ?>
 
