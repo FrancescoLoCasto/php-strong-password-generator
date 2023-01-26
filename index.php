@@ -21,7 +21,8 @@
       <?php 
          function randomGeneratorPassword()
          {
-
+            $lettersNumbersRandom = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890()';
+            $password = [];
          }
       ?>
 
