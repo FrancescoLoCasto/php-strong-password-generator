@@ -24,7 +24,11 @@
             $lettersNumbersRandom = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890()';
             $password = [];
             $lengthPassword = strlen($lettersNumbersRandom) - 1; 
-         }
+
+            for ($i = 0; $i < $_GET['userInput']; $i++) {
+               
+            }
+         };
       ?>
 
 
