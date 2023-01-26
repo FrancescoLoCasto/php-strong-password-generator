@@ -13,7 +13,21 @@
 
 
    <form action="./index.php" method="GET">
+      <label for="userInput">Inserisci la lungezza della nuova password</label>
+      <input type="number" name="userInput">
+      <button type="submit">Genera Password</button>
+
+
+      <?php 
       
+      
+      ?>
+
+
+
+
+
+
    </form>
 
 
