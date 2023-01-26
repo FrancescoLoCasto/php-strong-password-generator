@@ -19,8 +19,10 @@
 
 
       <?php 
-      
-      
+         function randomGeneratorPassword()
+         {
+
+         }
       ?>
 
 
