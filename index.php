@@ -20,7 +20,6 @@
       <label for="userInput">Inserisci la lungezza della nuova password</label>
       <input type="number" name="userInput">
       <button type="submit">Genera Password</button>
-
       <h1>
          <?php echo randomGeneratorPassword(); ?>
       </h1>
